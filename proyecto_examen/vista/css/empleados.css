@@ -1,0 +1,61 @@
+.tablaClass{
+    text-align: center;
+    border-left: 2px solid #dee2e6; /* Borde izquierdo */
+    border-right: 2px solid #dee2e6;
+}
+
+.buttonEdit{
+    background: orange;
+    border-radius: 10px;
+}
+
+.buttonDelete{
+    background: rgb(255, 21, 21);
+    border-radius: 10px;
+}
+
+.buttonCreate{
+    background: rgb(10, 220, 10);
+    border-radius: 10px;
+}
+
+.buttonExit{
+    background: rgb(255, 21, 21);
+    border-radius: 10px;
+    color: white;
+}
+
+.formulario{
+    width: 25%;
+    height: 500px;
+    background: darkgray;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+
+.label-container {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.label {
+    cursor: pointer;
+    margin-right: 5px;
+    background-color: #f0f0f0;
+    padding: 5px;
+    border-radius: 5px;
+}
+.label:hover {
+    background-color: #e0e0e0;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
