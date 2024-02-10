@@ -6,4 +6,5 @@ Examen PHP
 2.El administrador de usuarios solo me falta editar los permiso y hacer validar los permisos para cada usuario para entrar a ese perfil es,
 'adminUsuario', 'general'
 
-Agrego carpeta del proyecto y la BD
+Nota:
+Agrego carpeta del proyecto y la BD y la conexión de la BD estan en los documentos modelos
